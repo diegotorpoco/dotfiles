@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = diego.torpoco@gmail.com
+	name = diego torpoco
